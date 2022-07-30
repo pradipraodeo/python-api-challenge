@@ -1,3 +1,9 @@
+
+# Adding config.py file. api challenge 07/2020
+api_keys.py
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
